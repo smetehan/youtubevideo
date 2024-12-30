@@ -41,6 +41,20 @@ function App() {
     },
     {      url:"https://www.youtube.com/embed/kk7bf6kDKdY?si=WlXfUjXc9XePtSMu&autoplay=1&mute=1"
     },
+    {      url:"https://www.youtube.com/embed/73KzmKetRpA?si=ZXqcf7FoEz22lGLl&autoplay=1&mute=1"
+    },
+    {      url:"https://www.youtube.com/embed/5TJEpTVmcQs?si=iOBixDLbh-byK_Bw&autoplay=1&mute=1"
+    },
+    {      url:"https://www.youtube.com/embed/FvTa963mnfI?si=1qTBQA1XK3ZZxESl&autoplay=1&mute=1"
+    },
+    {      url:"https://www.youtube.com/embedxn8GFkM9V5Q?si=ulRqwSZAxOm1UJHc&autoplay=1&mute=1"
+    },
+    {      url:"https://www.youtube.com/embed/sEOkuXY3Ebc?si=IIoefZpoAd87zkJS&autoplay=1&mute=1"
+    },
+    {      url:"https://www.youtube.com/embed/ISPiDZX_b2U?si=iJZMqo1Iw3pejAyf&autoplay=1&mute=1"
+    },
+    {      url:"https://www.youtube.com/embed/T5qDpaijl6w?si=Hnexaao0QLCiui_X&autoplay=1&mute=1"
+    },
   ])
         useEffect(() => {
         const interval = setInterval(() => {
